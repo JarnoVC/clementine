@@ -44,7 +44,7 @@
                     me in staat om digitale oplossingen te creëren die zowel gebruiksvriendelijk als esthetisch zijn.</p>
             </div>
             <div class="blue_rect"></div>
-            <img src="../assets/about_hobby3.jpg" alt="persoon op klimmuur">
+            <img src="../assets/about_hobby3.jpg" alt="persoon met typmachine">
             <div class="about_info_hobby">
                 <h2>Hobby</h2>
                 <p>In mijn vrije tijd houd ik mezelf graag creatief bezig. Ik speel graag eens een rondje darts om even te ontspannen 
