@@ -123,4 +123,60 @@ nav {
     margin-right: 1em;
 }
 
+
+
+@media only screen and (max-width: 600px) {
+
+
+/* HEADER */
+
+.menu {
+    display: none;
+    height: 100vh;
+    margin-top: 20vh;
+}
+
+#toggle:checked + .menu {
+    display: block;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: block;
+    padding: 1em;
+}
+
+nav ul li a {
+    display: block;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+nav label {
+    font-size: 3em;
+    margin: 0.5em 0.7em 0em 0em;
+    display: block;
+}
+
+
+
+nav {
+    display: block;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+}
+
+nav label {
+    font-size: 2.5em;
+    margin: 0.4em 0.4em 0.2em 0em;
+    text-align: right;
+    display: block;
+}
+}
+
 </style>

@@ -55,4 +55,13 @@ button {
     max-width: 1em;
     padding-bottom: 0.25em;
 }
+
+@media only screen and (max-width: 600px) {
+
+html {
+    font-size: 0.8em;
+}
+}
+
+
 </style>

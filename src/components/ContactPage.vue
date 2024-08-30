@@ -270,5 +270,75 @@ a {
     color: #343434;
 }
 
+@media only screen and (max-width: 1220px) {
+/* 1220PX ADJUSTMENTS */
+/* CONTACT 1220PX */
 
+.contact_intro_info_right {
+    float: none;
+}
+
+.contact_intro {
+    margin-bottom: 15em;
+}
+
+}
+
+
+@media only screen and (max-width: 900px){
+/* CONTACT 900PX */
+
+.contact_intro {
+    margin-top: 20vh;
+}
+
+.contact_intro_right {
+    display: none;
+}
+
+.contact_intro_left {
+    width: 60vw;
+}
+
+#naam, #email {
+    background-color: #F6F6F6;
+    color: #8A8A8A;
+    font-size: 1em;
+    font-weight: 400;
+    width: 40vw;
+    font-style: italic;
+    margin: 1em 0em 1.5em 0em;
+}
+}
+
+@media only screen and (max-width: 600px) {
+
+
+/* CONTACT 600PX */
+
+.contact_intro {
+    margin-bottom: 5em;
+}
+
+.formular {
+    width: 65vw;
+    margin: 0 auto;
+}
+
+form {
+    width: 65vw;
+    margin-bottom: 10em;
+}
+
+#naam, #email {
+    background-color: #F6F6F6;
+    color: #8A8A8A;
+    font-size: 1em;
+    font-weight: 400;
+    width: 40vw;
+    font-style: italic;
+    margin: 1em 0em 1.5em 0em;
+}
+
+}
 </style>

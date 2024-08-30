@@ -147,4 +147,80 @@ button:hover {
     left: 0em;
 }
 
+@media only screen and (max-width: 600px) {
+
+/* HOME 600PX */
+
+.home_intro h1 {
+    margin: 0em 2em 1em 2em;
+}
+
+.home_intro p {
+    width: 50vw;
+}
+
+.home_intro img {
+    width: 20vw;
+}
+
+.teaser_left {
+    width: 60vw;
+    margin: 0 auto;
+    float: none;
+}
+
+.teaser_right {
+    margin: 0 auto;
+    float: none;
+    top: 0em;
+    width: 20em;
+}
+
+.teaser_right img{
+    width: 8em;
+}
+
+}
+
+@media only screen and (max-width: 325px) {
+
+
+/* HOME 325PX */
+
+.teaser_left {
+    width: 60vw;
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+    margin-bottom: 5em;
+}
+
+.teaser_right {
+    margin: 0 auto;
+    float: none;
+    top: 0em;
+    width: 15em;
+}
+
+.black_rect_home {
+    left: 5em;
+}
+
+.teaser_right :nth-child(1) {
+    top: 0em;
+}
+
+.teaser_right :nth-child(3) {
+    top: 0em;
+}
+
+.teaser_right img{
+    width: 8em;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
+
+}
+
 </style>
