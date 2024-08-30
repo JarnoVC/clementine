@@ -11,7 +11,14 @@ export default defineComponent({
         { name: 'keywords', content: 'grafisch ontwerp, programmeren, webdevelopment, logo ontwerp, visueel ontwerp, HTML, CSS, JavaScript, Vue.js, React.js' },
         { property: 'og:title', content: 'Clementine Designs - Grafisch Ontwerp en Programmeren' },
         { property: 'og:description', content: 'Unieke visuele identiteiten en innovatieve weboplossingen. Bekijk mijn portfolio voor grafisch ontwerp en webdevelopment.' },
-        { property: 'og:image', content: 'https://www.clementinedesigns.be/img/Logo_clementine.png' }
+        { property: 'og:image', content: 'https://www.clementinedesigns.be/img/Logo_clementine.png' },
+        { property: 'og:url', content: 'https://www.clementinedesigns.be/' },
+        { property: 'og:type', content: 'website' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:title', content: 'Clementine Designs - Grafisch Ontwerp en Programmeren' },
+        { name: 'twitter:description', content: 'Unieke visuele identiteiten en innovatieve weboplossingen. Bekijk mijn portfolio voor grafisch ontwerp en webdevelopment.' },
+        { name: 'twitter:image', content: 'https://www.clementinedesigns.be/img/Logo_clementine.png' },
+        { name: 'twitter:url', content: 'https://www.clementinedesigns.be/' }
       ]
     });
 
