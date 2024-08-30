@@ -5,8 +5,6 @@ import { createMetaManager } from 'vue-meta';
 import App from './App.vue'
 import { createRouter, createWebHistory } from 'vue-router';
 import VueGtm from '@gtm-support/vue-gtm';
-import Vue from 'vue'
-import VueMeta from 'vue-meta'
 
 import landingPage from './components/HomePage.vue'
 import aboutPage from './components/AboutPage.vue'
@@ -43,4 +41,4 @@ createApp(App).use(router).use(metaManager).use(VueGtm, {
     debug: false, // Whether or not to display debug logs
     loadScript: true, // Whether or not to load the GTM script in the <head> tag
     trackOnNextTick: false // Whether or not to call trackView in Vue.nextTick
-  }).use(VueMeta).mount('#app')
+  }).mount('#app')
