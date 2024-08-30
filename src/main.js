@@ -4,6 +4,7 @@ import { createApp } from 'vue'
 import { createMetaManager } from 'vue-meta';
 import App from './App.vue'
 import { createRouter, createWebHistory } from 'vue-router';
+import VueGtm from '@gtm-support/vue-gtm';
 
 import landingPage from './components/HomePage.vue'
 import aboutPage from './components/AboutPage.vue'
