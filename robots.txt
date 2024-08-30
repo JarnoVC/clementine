@@ -1,0 +1,10 @@
+User-agent: Bingbot
+Crawl-delay: 120
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://www.clementinedesigns.be/sitemap.xml
