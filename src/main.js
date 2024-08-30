@@ -32,6 +32,15 @@ const router = createRouter({
     },
 })
 
+router.afterEach((to) => {
+    // Push the route change to the dataLayer
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: 'pageview',
+      page: to.fullPath,
+    });
+});
+
 const metaManager = createMetaManager();
 
 createApp(App).use(router).use(metaManager).use(VueGtm, {
