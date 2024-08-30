@@ -23,7 +23,7 @@
             <div class="projects_showcase_right">
                 <div class="projects_showcase_right_text">
                 <h2>Clementine Logo</h2>
-                <p>Dit logo is ontworpen voor mijn eigen portfolio site. De negatieve ruimte symboliseert 2 bergen waartussen een pad (trail) naarboven loopt.</p>
+                <p>Dit logo is ontworpen voor mijn eigen portfolio site. Het is een speelse aanpak om mijn eigen achternaam.</p>
                 </div>
                 <img src="../assets/Logo_clementine.png" alt="het clementine logo">
                 <div class="clear"></div>
