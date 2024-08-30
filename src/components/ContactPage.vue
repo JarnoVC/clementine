@@ -1,4 +1,43 @@
 <script setup>
+import { ref } from 'vue';
+
+const naam = ref('');
+const email = ref('');
+const naamColor = ref('Black');
+const emailColor = ref('Black');
+
+const validatenaam = () => {
+  if (naam.value === '') {
+    naamColor.value = 'Red';
+    return false;
+  } else {
+    naamColor.value = 'Black';
+    return true;
+  }
+};
+
+const validateemail = () => {
+  if (email.value === '') {
+    emailColor.value = 'Red';
+    return false;
+  } else {
+    emailColor.value = 'Black';
+    return true;
+  }
+};
+
+const check = () => {
+  const isNaamValid = validatenaam();
+  const isEmailValid = validateemail();
+
+  if (isNaamValid && isEmailValid) {
+    // Proceed with form submission
+    alert("Form is valid and ready to submit!");
+  } else {
+    // Show a warning
+    document.getElementById("warning").style.visibility = "visible";
+  }
+};
 
 </script>
 
@@ -30,20 +69,36 @@
             </div>
         </div>
         <h2 class="contact_form_h2">Laat een boodschap achter!</h2>
-        <p class="text" id="warning">Vul je naam en emailadres in voor je een bericht verstuurd.</p>
-        <div class="formular">
-            <div class="black_rect_contact2"></div>
-            <form onSubmit="return check()" action="mailto:dennis.pouliart@outlook.be">
-                <label class="formular_text" for="naam">Naam</label>
-                <input  class="formular_text" type="text" id="naam" name="naam" placeholder="Je naam..." onblur="validatenaam()">
-                <br>
-                <label class="formular_text" for="email">Email</label>
-                <input  class="formular_text" type="text" id="email" name="email" placeholder="Je email..." onblur="validateemail()">
-                <br>
-                <label class="formular_text" for="bericht">Bericht</label>
-                <input  class="formular_text" type="text" id="bericht" name="bericht" placeholder="Bericht..."> 
-                <input type="submit" value="verzend">
-            </form>
+    <p class="text" id="warning">Vul je naam en emailadres in voor je een bericht verstuurd.</p>
+    <div class="formular">
+      <div class="black_rect_contact2"></div>
+      <form @submit.prevent="check">
+        <label class="formular_text" for="naam">Naam</label>
+        <input
+          class="formular_text"
+          type="text"
+          id="naam"
+          v-model="naam"
+          :style="{ color: naamColor }"
+          @blur="validatenaam"
+          placeholder="Je naam..."
+        />
+        <br>
+        <label class="formular_text" for="email">Email</label>
+        <input
+          class="formular_text"
+          type="text"
+          id="email"
+          v-model="email"
+          :style="{ color: emailColor }"
+          @blur="validateemail"
+          placeholder="Je email..."
+        />
+        <br>
+        <label class="formular_text" for="bericht">Bericht</label>
+        <input class="formular_text" type="text" id="bericht" name="bericht" placeholder="Bericht..." />
+        <input type="submit" value="verzend" />
+      </form>
         </div>
     </main>
 
