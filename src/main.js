@@ -1,6 +1,7 @@
 import './assets/normalize.css'
 
 import { createApp } from 'vue'
+import { createMetaManager } from 'vue-meta';
 import App from './App.vue'
 import { createRouter, createWebHistory } from 'vue-router';
 
@@ -30,4 +31,6 @@ const router = createRouter({
     },
 })
 
-createApp(App).use(router).mount('#app')
+const metaManager = createMetaManager();
+
+createApp(App).use(router).use(metaManager).mount('#app')

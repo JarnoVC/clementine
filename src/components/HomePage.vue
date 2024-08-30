@@ -1,5 +1,23 @@
-<script setup>
+<script>
+import { defineComponent } from 'vue';
+import { useMeta } from 'vue-meta';
 
+export default defineComponent({
+  setup() {
+    useMeta({
+      title: 'Clementine Designs - Grafisch Ontwerp en Programmeren',
+      meta: [
+        { name: 'description', content: 'Portfolio grafisch ontwerp en programmeren. Creëer unieke visuele identiteiten en ontwikkel innovatieve weboplossingen.' },
+        { name: 'keywords', content: 'grafisch ontwerp, programmeren, webdevelopment, logo ontwerp, visueel ontwerp, HTML, CSS, JavaScript, Vue.js, React.js' },
+        { property: 'og:title', content: 'Clementine Designs - Grafisch Ontwerp en Programmeren' },
+        { property: 'og:description', content: 'Unieke visuele identiteiten en innovatieve weboplossingen. Bekijk mijn portfolio voor grafisch ontwerp en webdevelopment.' },
+        { property: 'og:image', content: 'https://www.clementinedesigns.be/img/Logo_clementine.png' }
+      ]
+    });
+
+    return {};
+  }
+});
 </script>
 
 <template>
