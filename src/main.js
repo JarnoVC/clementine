@@ -33,4 +33,11 @@ const router = createRouter({
 
 const metaManager = createMetaManager();
 
-createApp(App).use(router).use(metaManager).mount('#app')
+createApp(App).use(router).use(metaManager).use(VueGtm, {
+    id: 'GTM-MVCMGCKK', // Your GTM ID here
+    vueRouter: router, // Pass your router instance if you want automatic event tracking based on routes
+    enabled: true, // Whether or not GTM should be loaded
+    debug: false, // Whether or not to display debug logs
+    loadScript: true, // Whether or not to load the GTM script in the <head> tag
+    trackOnNextTick: false // Whether or not to call trackView in Vue.nextTick
+  }).mount('#app')
