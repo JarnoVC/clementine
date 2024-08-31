@@ -33,7 +33,7 @@ export default defineComponent({
         <div class="home_intro">
             <h1>Op zoek naar een <span>creatief</span> avontuur!</h1>
             <p>Toveren met vormen en kleuren zodat jouw product visueel <span><strong>opvalt</strong></span> tussen de massa!</p>
-            <img src="../assets/logo_clementine.svg" alt="het trailup logo">
+            <img src="../assets/logo_clementine_performance.png" alt="het trailup logo">
             <p class="arrow">&#8250;</p>
         </div>
         <div class="teaser">
