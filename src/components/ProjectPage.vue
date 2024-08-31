@@ -69,7 +69,7 @@
                 <h2>Smashing Magazine</h2>
                 <p>Een visuele kalender ontworpen om mee te doen aan de Smashing Magazine wedstrijd. Het thema waar ik rond gewerkt heb was nationale science fiction dag.</p>
                 </div>
-                <img src="../assets/space_magazine.png" alt="kalender met popcorn achtergrond">
+                <img src="../assets/space_magazine.png" alt="kalender met ruimteschepen">
                 <div class="clear"></div>
             </div>
         </div>
