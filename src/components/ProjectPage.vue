@@ -45,7 +45,7 @@
             <div class="projects_showcase_right">
                 <div class="projects_showcase_right_text">
                 <h2>Kwipper</h2>
-                <p>Kwipper is een platform, dat ik als project voor mijn eindwerk heb gebouwd, waar kleinschallige organisaties and jeugdbewegingen materiaal dat zij op dat moment niet nodig hebben kunnen 
+                <p>Kwipper is een Vue.js-based platform, dat ik als project voor mijn eindwerk heb gebouwd, waar kleinschallige organisaties and jeugdbewegingen materiaal dat zij op dat moment niet nodig hebben kunnen 
                     verhuren aan andere jeugdbewegingen en groepen.</p> 
                 </div>
                 <img src="../assets/logo_kwipper.png" alt="het kwipper logo">

@@ -9,7 +9,7 @@
                 
                 <span class="about_block"><span class="blue">C</span>reatief.</span>
                 <span class="about_block">E<span class="blue">l</span>egant.</span>
-                <span class="about_block">Inspir<span class="blue">e</span>rend.</span>
+                <span class="about_block">Developm<span class="blue">e</span>nt.</span>
                 <span class="about_block"><span class="blue">M</span>od<span class="blue">e</span>r<span class="blue">n</span>.</span>
                 <span class="about_block">En<span class="blue">t</span>hous<span class="blue">i</span>ast.</span>
                 <span class="about_block">U<span class="blue">n</span>i<span class="blue">e</span>k.</span>
@@ -25,10 +25,10 @@
                     passie voor zowel grafisch ontwerp als programmeren volledig heb kunnen ontwikkelen. Het combineren van creatieve vormen en 
                     kleuren met passende technologieën om tot fraaie, en grafisch sterke, ontwerpen te komen, vind ik geweldig.</p>
 
-                <p> Met behulp van verschillende software en development frameworks vertaal ik ideeën naar visueel aantrekkelijke en functionele ontwerpen voor webdevelopment en meer. 
+                <p> Met behulp van verschillende software en development frameworks, zoals Vue.js of React, vertaal ik ideeën naar visueel aantrekkelijke en functionele ontwerpen voor webdevelopment en meer. 
                     Van strakke grafische elementen tot interactieve digitale oplossingen, ik zorg ervoor dat elk project zowel visueel als technisch 
                     sterk staat. Ik neem verantwoordelijkheid voor mijn werk en zet me volledig in om de kwaliteit van het eindproduct te waarborgen. 
-                    De combinatie van creativiteit en code zorgt ervoor dat mijn ontwerpen niet alleen ster in design zijn, maar ook werken en impact maken.</p>
+                    De combinatie van creativiteit en code zorgt ervoor dat mijn ontwerpen niet alleen sterk in design zijn, maar ook werken en impact maken.</p>
             </div>
             <div class="blue_rect"></div>
             <img src="../assets/about_studies.jpg" alt="papieren, statistieken en vergrootglas">
@@ -40,7 +40,7 @@
                 <p> Tijdens mijn opleiding Experience Design heb ik deze interesse verder ontwikkeld en gecombineerd met mijn creativiteit. Niet alleen ben ik
                     bedreven in grafisch ontwerp, gebruikmakende van het volledige Adobe pakket/figma, maar ik ben ook bedreven in verschillende programmeertalen 
                     zoals HTML, CSS, JavaScript, Vue.js, Python, Jquery en React, waarmee ik 
-                    functionele en visueel aantrekkelijke websites en applicaties bouw. De combinatie van development en design stelt 
+                    functionele en visueel aantrekkelijke websites en applicaties bouw. De combinatie van webdevelopment en design stelt 
                     me in staat om digitale oplossingen te creëren die zowel gebruiksvriendelijk als grafisch aantrekkelijk zijn.</p>
             </div>
             <div class="blue_rect"></div>
