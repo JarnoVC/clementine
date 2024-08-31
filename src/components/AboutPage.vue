@@ -23,12 +23,12 @@
                 <h2>Kennismaking</h2>
                 <p>Ik ben 24 jaar en altijd op zoek naar nieuwe uitdagingen! Momenteel rond ik mijn opleiding Experience Design af, waar ik mijn 
                     passie voor zowel grafisch ontwerp als programmeren volledig heb kunnen ontwikkelen. Het combineren van creatieve vormen en 
-                    kleuren met slimme technologieën om tot doordachte ontwerpen te komen, vind ik geweldig.</p>
+                    kleuren met passende technologieën om tot fraaie, en grafisch sterke, ontwerpen te komen, vind ik geweldig.</p>
 
-                <p> Met behulp van verschillende software en programmeertalen vertaal ik ideeën naar visueel aantrekkelijke en functionele ontwerpen. 
+                <p> Met behulp van verschillende software en development frameworks vertaal ik ideeën naar visueel aantrekkelijke en functionele ontwerpen voor webdevelopment en meer. 
                     Van strakke grafische elementen tot interactieve digitale oplossingen, ik zorg ervoor dat elk project zowel visueel als technisch 
                     sterk staat. Ik neem verantwoordelijkheid voor mijn werk en zet me volledig in om de kwaliteit van het eindproduct te waarborgen. 
-                    De combinatie van creativiteit en code zorgt ervoor dat mijn ontwerpen niet alleen mooi zijn, maar ook werken en impact maken.</p>
+                    De combinatie van creativiteit en code zorgt ervoor dat mijn ontwerpen niet alleen ster in design zijn, maar ook werken en impact maken.</p>
             </div>
             <div class="blue_rect"></div>
             <img src="../assets/about_studies.jpg" alt="papieren, statistieken en vergrootglas">
@@ -39,15 +39,15 @@
                   
                 <p> Tijdens mijn opleiding Experience Design heb ik deze interesse verder ontwikkeld en gecombineerd met mijn creativiteit. Niet alleen ben ik
                     bedreven in grafisch ontwerp, gebruikmakende van het volledige Adobe pakket/figma, maar ik ben ook bedreven in verschillende programmeertalen 
-                    zoals HTML, CSS, JavaScript, Vue, Python, Jquery en React, waarmee ik 
-                    niet alleen functionele maar ook visueel aantrekkelijke websites en applicaties bouw. De combinatie van code en ontwerp stelt 
-                    me in staat om digitale oplossingen te creëren die zowel gebruiksvriendelijk als esthetisch zijn.</p>
+                    zoals HTML, CSS, JavaScript, Vue.js, Python, Jquery en React, waarmee ik 
+                    functionele en visueel aantrekkelijke websites en applicaties bouw. De combinatie van development en design stelt 
+                    me in staat om digitale oplossingen te creëren die zowel gebruiksvriendelijk als grafisch aantrekkelijk zijn.</p>
             </div>
             <div class="blue_rect"></div>
             <img src="../assets/about_hobby3.jpg" alt="persoon met typmachine">
             <div class="about_info_hobby">
                 <h2>Hobby</h2>
-                <p>In mijn vrije tijd houd ik mezelf graag creatief bezig. Ik speel graag eens een rondje darts om even te ontspannen 
+                <p>In mijn vrije tijd houd ik mezelf niet allen bezig met mijn kennis in webdevelopment of Vue.js te verdiepen, maar ook meet een reeds creatieve hobby's. Ik speel graag eens een rondje darts om even te ontspannen 
                     en scherp te blijven. Daarnaast vind ik koken geweldig; het geeft me de kans om te experimenteren met nieuwe recepten en vrienden te 
                     verrassen met een lekkere maaltijd. Tenslotte schrijf ik graag enorm korte verhalen en werk ik samen met vrienden aan gezamenlijke 
                     literaire projectjes. </p>

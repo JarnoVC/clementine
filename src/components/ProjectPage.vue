@@ -10,6 +10,7 @@
                 <div class="black_rect_projects"></div>
                 <p>Onderaan vind je enkele projecten waar ik gedurende mijn studies aan gewerkt heb. Deze projecten zijn gevarieerd en gaan van logo's
                     en illustraties tot prototypes en animaties. Door het maken van deze projecten heb ik veel geleerd en heb ik ook massa's ervaring op gedaan.
+                    Clementine, Kwipper, Copoll, en Ladybug: elk logo en project werd gebouwd met een uniek doel in gedachte.
                 </p>
                 <p>
                     Heb je een vraag? Aarzel niet om me te contacteren!
@@ -23,7 +24,7 @@
             <div class="projects_showcase_right">
                 <div class="projects_showcase_right_text">
                 <h2>Clementine Logo</h2>
-                <p>Dit logo is ontworpen voor mijn eigen portfolio site. Het is een speelse aanpak om mijn eigen achternaam.</p>
+                <p>Het Clementine logo is ontworpen voor mijn eigen portfolio site. Het is een speelse aanpak om mijn eigen achternaam.</p>
                 </div>
                 <img src="../assets/Logo_clementine.png" alt="het clementine logo">
                 <div class="clear"></div>
@@ -33,7 +34,7 @@
             <div class="projects_showcase_left">
                 <div class="projects_showcase_left_text">
                 <h2>Ladybug</h2>
-                <p> Ladybug is een promotiecampagne die ik samen met enkele medestudenten heb opgezet om onze studierichting meer 
+                <p> Ladybug is een promotiecampagne en project die ik samen met enkele medestudenten heb opgezet om onze studierichting meer 
                     onder de aandacht te brengen bij vrouwen. We maakten hierbij gebruik van getuigenissen die zijn ingestuurd door onze vrouwelijke collega's. </p>
                 </div>
                 <img src="../assets/logo_ladybug.png" alt="logo ladybug">
@@ -43,7 +44,7 @@
         <div class="projects_showcase">
             <div class="projects_showcase_right">
                 <div class="projects_showcase_right_text">
-                <h2>Kwipper Logo</h2>
+                <h2>Kwipper</h2>
                 <p>Kwipper is een platform waar kleinschallige organisaties and jeugdbewegingen materiaal dat zij op dat moment niet nodig hebben kunnen 
                     verhuren aan andere jeugdbewegingen en groepen.</p> 
                 </div>
@@ -54,7 +55,7 @@
         <div class="projects_showcase">
             <div class="projects_showcase_left">
                 <div class="projects_showcase_left_text">
-                <h2>Copoll Logo</h2>
+                <h2>Copoll</h2>
                 <p>Copoll is een applicatie dat ontworpen is om burgerparticipatie in lokale gemeente aan te moedigen. Het geeft gemeentes
                     de mogelijkheid om projecten en bevragingen te organiseren waaraan bewoners en lokale organisaties aan kunnen meewerken.</p>
                 </div>
