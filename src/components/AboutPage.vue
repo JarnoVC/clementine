@@ -7,22 +7,22 @@
         <div class="about_intro">
             <h1>
                 
-                <span class="about_block"><span class="blue">C</span>reatief.</span>
-                <span class="about_block">E<span class="blue">l</span>egant.</span>
-                <span class="about_block">Developm<span class="blue">e</span>nt.</span>
-                <span class="about_block"><span class="blue">M</span>od<span class="blue">e</span>r<span class="blue">n</span>.</span>
-                <span class="about_block">En<span class="blue">t</span>hous<span class="blue">i</span>ast.</span>
-                <span class="about_block">U<span class="blue">n</span>i<span class="blue">e</span>k.</span>
+                <span class="about_block"><span class="orange">C</span>reatief.</span>
+                <span class="about_block">E<span class="orange">l</span>egant.</span>
+                <span class="about_block">Developm<span class="orange">e</span>nt.</span>
+                <span class="about_block"><span class="orange">M</span>od<span class="orange">e</span>r<span class="orange">n</span>.</span>
+                <span class="about_block">En<span class="orange">t</span>hous<span class="orange">i</span>ast.</span>
+                <span class="about_block">U<span class="orange">n</span>i<span class="orange">e</span>k.</span>
             </h1>
             <p class="arrow">&#8250;</p>
         </div>
         <div class="about_info">
-            <div class="blue_rect"></div>
+            <div class="orange_rect"></div>
             <img src="../assets/about_kennismaking.jpg" alt="handshake">
             <div class="about_info_kennismaking">
                 <h2>Kennismaking</h2>
                 <p>Ik ben 24 jaar en altijd op zoek naar nieuwe uitdagingen! Momenteel rond ik mijn opleiding Experience Design af, waar ik mijn 
-                    passie voor zowel grafisch ontwerp als programmeren volledig heb kunnen ontwikkelen. Het combineren van creatieve vormen en 
+                    passie voor zowel grafisch ontwerp als webdevelopment volledig heb kunnen ontwikkelen. Het combineren van creatieve vormen en 
                     kleuren met passende technologieën om tot fraaie, en grafisch sterke, ontwerpen te komen, vind ik geweldig.</p>
 
                 <p> Met behulp van verschillende software en development frameworks, zoals Vue.js of React, vertaal ik ideeën naar visueel aantrekkelijke en functionele ontwerpen voor webdevelopment en meer. 
@@ -30,7 +30,7 @@
                     sterk staat. Ik neem verantwoordelijkheid voor mijn werk en zet me volledig in om de kwaliteit van het eindproduct te waarborgen. 
                     De combinatie van creativiteit en code zorgt ervoor dat mijn ontwerpen niet alleen sterk in design zijn, maar ook werken en impact maken.</p>
             </div>
-            <div class="blue_rect"></div>
+            <div class="orange_rect"></div>
             <img src="../assets/about_studies.jpg" alt="papieren, statistieken en vergrootglas">
             <div class="about_info_studies">
                 <h2>Studies</h2>
@@ -43,7 +43,7 @@
                     functionele en visueel aantrekkelijke websites en applicaties bouw. De combinatie van webdevelopment en design stelt 
                     me in staat om digitale oplossingen te creëren die zowel gebruiksvriendelijk als grafisch aantrekkelijk zijn.</p>
             </div>
-            <div class="blue_rect"></div>
+            <div class="orange_rect"></div>
             <img src="../assets/about_hobby3.jpg" alt="persoon met typmachine">
             <div class="about_info_hobby">
                 <h2>Hobby</h2>
@@ -155,7 +155,7 @@
     padding: 0em 2em 1.5em 2.5em;
 }
 
-.blue_rect {
+.orange_rect {
     background-color: #FDA147;
     position: relative;
     top: 1.5em; 

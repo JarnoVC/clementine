@@ -42,7 +42,7 @@ button {
     color: white;
 }
 
-.blue {
+.orange {
     color: #FDA147;
 }
 
