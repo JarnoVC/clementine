@@ -125,6 +125,7 @@ button:hover {
     margin: 1.2em 1.2em 0em 0em;
     box-shadow: 0px 6px 20px #dfdede;
     max-height: 100%;
+    max-width: 100%;
     object-fit: cover;
 }
 
