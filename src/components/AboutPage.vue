@@ -47,10 +47,9 @@
             <img src="../assets/about_hobby3.jpg" alt="persoon met typmachine">
             <div class="about_info_hobby">
                 <h2>Hobby</h2>
-                <p>In mijn vrije tijd houd ik mezelf niet allen bezig met mijn kennis in webdevelopment of Vue.js te verdiepen, maar ook meet een reeds creatieve hobby's. Ik speel graag eens een rondje darts om even te ontspannen 
-                    en scherp te blijven. Daarnaast vind ik koken geweldig; het geeft me de kans om te experimenteren met nieuwe recepten en vrienden te 
-                    verrassen met een lekkere maaltijd. Tenslotte schrijf ik graag enorm korte verhalen en werk ik samen met vrienden aan gezamenlijke 
-                    literaire projectjes. </p>
+                <p>In mijn vrije tijd verdiep ik me niet alleen in webdevelopment en Graphic design, maar geniet ik ook van enkele ontspannende hobby's. Zo speel ik graag eens een rondje darts, lees ik een goed boek om te ontspannen, 
+                        of game ik wat samen met vrienden. Daarnaast houd ik ook enorm veel van koken; het geeft me de kans om te experimenteren met nieuwe recepten en familie te verrassen met een lekkere maaltijd. 
+                        Tot slot schrijf ik met veel plezier fantasie- en sciencefictionverhalen en werk ik samen met enkele online vrienden aan gezamenlijke literaire projectjes. </p>
             </div>
         </div>
     </main>
